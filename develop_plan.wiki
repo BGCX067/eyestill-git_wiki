@@ -7,6 +7,7 @@ Development plan, including functional components, expected research-time, devel
 
 = Details =
  * web-page text extractor
+    * content-scripts
  * UI
  * text splitter
  * method to replay those extracted text
