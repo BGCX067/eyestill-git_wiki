@@ -1,0 +1,12 @@
+#summary Rough develop plan for this project
+
+= Introduction =
+
+Development plan, including functional components, expected research-time, development time
+
+
+= Details =
+ * web-page text extractor
+ * UI
+ * text splitter
+ * method to replay those extracted text
